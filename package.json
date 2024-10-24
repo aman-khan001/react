@@ -1,7 +1,7 @@
 {
   "homepage": "https://aman-khan001.github.io/react/",
   "name": "todo-final",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
